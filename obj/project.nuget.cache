@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "I/HKtuI01Og=",
+  "success": true,
+  "projectFilePath": "/Users/vuongnguyenvan/Documents/repos/backend-api/backend-api.csproj",
+  "expectedPackageFiles": [
+    "/Users/vuongnguyenvan/.nuget/packages/microsoft.aspnetcore.openapi/9.0.0/microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "/Users/vuongnguyenvan/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
